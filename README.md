@@ -37,7 +37,7 @@ You need a web browser to view the HTML page.
    git clone https://github.com/Akshat5249/Marathon_Registration.git
 2. Navigate to the project directory
    ```sh
-   cd marathon-registration-page
+   cd Marathon_Registration
 3. Open the index.html file in your web browser.
 
 ## Usage
