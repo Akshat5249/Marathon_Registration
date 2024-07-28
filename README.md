@@ -54,11 +54,13 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 ## License
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See 'LICENSE.txt' for more information.
 
 ## Contact
-LinkedIn :- [Akshat Tayal](https://www.linkedin.com/in/akshat-tayal-8b6225296/) 
-Twitter :- [Akshat5249](https://twitter.com/Akshat5249) 
-Email Id :- akshattayal8622@gmail.com
+
+LinkedIn: [Akshat Tayal](https://www.linkedin.com/in/akshat-tayal)  
+Twitter: [Akshat5249](https://twitter.com/Akshat5249)  
+Email Id: [akshattayal8622@gmail.com](mailto:akshattayal8622@gmail.com)
+
 
 Project Link: https://github.com/Akshat5249/Marathon_Registration
